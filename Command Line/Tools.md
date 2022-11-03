@@ -1,0 +1,5 @@
+- man
+	- how to search it
+	- how to quit it
+	- how to navigate it
+- code
