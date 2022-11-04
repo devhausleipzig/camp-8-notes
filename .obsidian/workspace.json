@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Command Line/Terminology.md",
+                "file": "Languages/CSS/Selectors.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Command Line/Terminology.md",
+                "file": "Languages/CSS/Selectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Command Line/Terminology.md",
+                "file": "Languages/CSS/Selectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Command Line/Terminology.md"
+                "file": "Languages/CSS/Selectors.md"
               }
             }
           }
@@ -142,15 +142,15 @@
   },
   "active": "63ae3c8fe6c768f1",
   "lastOpenFiles": [
+    "Braindump.md",
+    "Command Line/Terminology.md",
     "Command Line/File Manipulation.md",
     "Command Line/Output.md",
     "Command Line/File System.md",
-    "Command Line/Terminology.md",
     "Languages/CSS/Variables.md",
     "Languages/CSS/Properties.md",
     "Languages/CSS/Properties/Display.md",
     "Command Line/MOC.md",
-    "Command Line/Tools.md",
-    "Tools/MOC.md"
+    "Command Line/Tools.md"
   ]
 }
