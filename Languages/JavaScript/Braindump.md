@@ -106,7 +106,7 @@ An operator/function that has different behavior depending on the types of the a
 
 -   AND ( && )
 
--                               OR ( || )
+-                                 OR ( || )
 
 -   operator assignment combos (+= / -= / etc..)
 -   Increment ++
@@ -160,9 +160,9 @@ increment(10); // 10 is the actual value given to the function (the argument) wh
 
 -   statement vs expressions
 
-Statement is supposed to be "a single action" that the interpreter can go through one by one. The sequence of statements is the "thread of execution". These actions have "side-effects".
+Statement is supposed to be "a single action". The sequence of statements that the interpreter goes through one by one is the "thread of execution". These actions (statements) have "side-effects", e.g. writing to hard disk, sending a network message, moving something in memory, changing a data structure, etc... That is, they change something about the world.
 
-Expressions are supposed to be some "complex value" that the interpreter can reduce down to a single value.
+Expressions are supposed to be some "complex value" that the interpreter can reduce down to a single value. They are purely computation and don't change anything about the world.
 
 ```js
 10 + 89634 - ((34 / 434 / 2) % 21); // is an expression
