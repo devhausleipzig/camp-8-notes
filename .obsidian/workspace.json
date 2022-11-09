@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "760a6b3ca444b4f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/JavaScript/Braindump.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages/CSS/Selectors.md",
+                "file": "Languages/JavaScript/Braindump.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Languages/CSS/Selectors.md",
+                "file": "Languages/JavaScript/Braindump.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Languages/CSS/Selectors.md"
+                "file": "Languages/JavaScript/Braindump.md"
               }
             }
           }
@@ -137,11 +150,9 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "63ae3c8fe6c768f1",
+  "active": "760a6b3ca444b4f7",
   "lastOpenFiles": [
+    "Languages/CSS/Selectors.md",
     "Braindump.md",
     "Command Line/Terminology.md",
     "Command Line/File Manipulation.md",
@@ -150,7 +161,6 @@
     "Languages/CSS/Variables.md",
     "Languages/CSS/Properties.md",
     "Languages/CSS/Properties/Display.md",
-    "Command Line/MOC.md",
-    "Command Line/Tools.md"
+    "Command Line/MOC.md"
   ]
 }
