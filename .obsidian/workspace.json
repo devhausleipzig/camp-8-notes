@@ -95,8 +95,12 @@
             "id": "27a8edd02bd6345b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Languages/JavaScript/Braindump.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ],
@@ -166,6 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Languages/JavaScript/Braindump.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,6 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Languages/JavaScript/Braindump.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +209,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Languages/JavaScript/Braindump.md"
+              }
             }
           }
         ],
@@ -214,17 +222,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0084a8b32ee5bf98",
+  "active": "27a8edd02bd6345b",
   "lastOpenFiles": [
+    "Languages/JavaScript/Arrays.md",
+    "Untitled.md",
     "Languages/JavaScript/Braindump.md",
     "Languages/JavaScript/Objects.md",
-    "Languages/JavaScript/Arrays.md",
     "Languages/JavaScript/Functions.md",
     "Languages/JavaScript/Operators.md",
     "Languages/JavaScript/Primitive Types.md",
     "Languages/JavaScript/Bindings.md",
     "Braindump.md",
-    "Languages/HTML/Attributes.md",
-    "Languages/HTML/Tags/Table.md"
+    "Languages/HTML/Attributes.md"
   ]
 }
