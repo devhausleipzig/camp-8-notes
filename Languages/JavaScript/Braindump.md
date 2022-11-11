@@ -92,3 +92,25 @@ console.log(fruits[idx])
 
 }
 ```
+
+```js
+function buildArray(start, end) {
+  const array = []
+  let ourStart = start
+  let ourEnd = end
+
+  if(end < start) {
+    ourStart = end
+    ourEnd = start
+  }
+
+  for(let counter = ourStart; counter <= ourEnd; counter++) {
+    array.push(counter)
+  }
+  return array
+}
+
+const newArray = buildArray(10,5)
+console.log(newArray)
+console.log(newArray[5])
+```
