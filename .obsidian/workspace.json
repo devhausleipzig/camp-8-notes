@@ -30,9 +30,77 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "1570c834bd02bfbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/JavaScript/Braindump.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a1cf26130836b6e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/JavaScript/Braindump.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "58b09d06884f3b31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/JavaScript/Braindump.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a06e1e5998cda770",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/JavaScript/Braindump.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "978ab1d890ed5a8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/JavaScript/Braindump.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "27a8edd02bd6345b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -98,7 +166,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages/JavaScript/Braindump.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +182,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Languages/JavaScript/Braindump.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +203,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Languages/JavaScript/Braindump.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -150,17 +214,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "760a6b3ca444b4f7",
+  "active": "0084a8b32ee5bf98",
   "lastOpenFiles": [
-    "Languages/CSS/Selectors.md",
+    "Languages/JavaScript/Braindump.md",
+    "Languages/JavaScript/Objects.md",
+    "Languages/JavaScript/Arrays.md",
+    "Languages/JavaScript/Functions.md",
+    "Languages/JavaScript/Operators.md",
+    "Languages/JavaScript/Primitive Types.md",
+    "Languages/JavaScript/Bindings.md",
     "Braindump.md",
-    "Command Line/Terminology.md",
-    "Command Line/File Manipulation.md",
-    "Command Line/Output.md",
-    "Command Line/File System.md",
-    "Languages/CSS/Variables.md",
-    "Languages/CSS/Properties.md",
-    "Languages/CSS/Properties/Display.md",
-    "Command Line/MOC.md"
+    "Languages/HTML/Attributes.md",
+    "Languages/HTML/Tags/Table.md"
   ]
 }
