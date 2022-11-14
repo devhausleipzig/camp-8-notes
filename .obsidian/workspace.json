@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/JavaScript/Braindump.md",
+                "file": "Languages/JavaScript/Arrays.md",
                 "mode": "source",
                 "source": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages/JavaScript/Braindump.md",
+                "file": "Languages/JavaScript/Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Languages/JavaScript/Braindump.md",
+                "file": "Languages/JavaScript/Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Languages/JavaScript/Braindump.md"
+                "file": "Languages/JavaScript/Arrays.md"
               }
             }
           }
@@ -224,15 +224,15 @@
   },
   "active": "27a8edd02bd6345b",
   "lastOpenFiles": [
-    "Languages/JavaScript/Arrays.md",
-    "Untitled.md",
-    "Languages/JavaScript/Braindump.md",
-    "Languages/JavaScript/Objects.md",
     "Languages/JavaScript/Functions.md",
-    "Languages/JavaScript/Operators.md",
+    "Languages/JavaScript/Braindump.md",
+    "Languages/JavaScript/Arrays.md",
+    "Languages/JavaScript/Objects.md",
     "Languages/JavaScript/Primitive Types.md",
+    "Languages/JavaScript/Operators.md",
     "Languages/JavaScript/Bindings.md",
     "Braindump.md",
-    "Languages/HTML/Attributes.md"
+    "Career/MOC.md",
+    "Languages/CSS/Properties/Display.md"
   ]
 }
