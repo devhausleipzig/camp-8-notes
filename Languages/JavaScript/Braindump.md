@@ -7,7 +7,6 @@
 -   prompt
 -   syntactic sugar
 
-- indexation
 - functions
 - Control Flow
 	- if/ else

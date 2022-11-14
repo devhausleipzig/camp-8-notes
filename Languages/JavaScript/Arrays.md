@@ -161,3 +161,18 @@ const fruits = ['apple', 'banana', 'apple', 'pineapple']
 fruits.indexOf('apple') // => 0
 fruits.indexOf('peach') // => -1
 ```
+
+### Reference
+
+if we want to create a copy of an array, it is not enough to create a new binding and assign the value of a previous binding
+
+```js
+const fruits = ['apple', 'banana']
+
+const newFruits = fruits
+```
+
+This would point to the exact place in memory.
+If you want to create a copy use methods like `slice`
+
+![[reference.png]]

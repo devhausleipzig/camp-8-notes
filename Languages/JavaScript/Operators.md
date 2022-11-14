@@ -17,6 +17,25 @@ An operator/function that has different behavior depending on the types of the a
 -   division
     Divide two numbers.
 
+#### Remainder (Modulo)
+
+Return the remainder of a division. It is very useful to f.e. determine if a number is even.
+
+```js
+3 % 2 // => 1
+4 % 2 // => 0
+
+//check even 
+function isEven(n) {
+	return n % 2 === 0
+}
+
+//check odd 
+function isOdd(n) {
+	return n % 2 !== 0
+}
+```
+
 ### Comparison Operators
 
 -   (Strict) Equality
