@@ -7,23 +7,9 @@
 -   prompt
 -   syntactic sugar
 
-- functions
-- Control Flow
-	- if/ else
-	- switch
-	- ternary operator
-- loop
-	- for
-	- while
-	- do while
-	- for ... in
-	- for ... of
-- nested for loop
 - Object.keys
 - export
 - import
-- return
-- Remainder Operator (Modulo)
 
 
 
