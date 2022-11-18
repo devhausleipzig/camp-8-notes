@@ -10,6 +10,11 @@
 - Object.keys
 - export
 - import
+- merging arrays
+- destructuring
+- spread
+- rest
+- 
 
 
 

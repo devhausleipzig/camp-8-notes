@@ -26,3 +26,44 @@ const someBinding = 10; // statement
 let myVar; // statement
 function myFunc() {} // statement/not statement?
 ```
+
+## Arrow Functions
+
+```js
+const add = (x, y) => x + y
+// equal
+const addBody = (x, y) => {
+  return x + y
+}
+// eqaul
+function addClassic(x, y) {
+  return x + y
+}
+```
+
+## Pure functions
+
+A pure function always produces the same output with the same inputs
+
+```js
+function add(x, y) {
+  return x + y
+}
+
+console.log(add(1,2)) // => 3
+console.log(add(1,2)) // => 3
+```
+
+```js
+//Impure
+let counter = 0
+function add(x, y) {
+  const result = x + y + counter
+  counter ++
+  return result
+}
+
+console.log(add(1,2)) // => 3
+console.log(add(1,2)) // => 4
+console.log(add(1,2)) // => 5
+```
