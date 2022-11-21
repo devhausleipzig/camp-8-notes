@@ -20,3 +20,4 @@
 -   If we want to mark a package as a devDependency (doesn't need to be included in the built/distribution version of your code), we can add the flag ' -D ' / ' --save-dev '
 -   If we want to install a package globally, we can add the ' -g '
 -   Packages installed locally are downloaded to a folder called "node_modules". We don't want to share this folder, we only want to share the 'package.json' file that described our dependencies.
+-   If you clone a new repo and want to install all the dependencies, type "npm install".
